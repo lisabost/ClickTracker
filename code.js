@@ -5,5 +5,5 @@ function clicked() {
 }
 
 function counted() {
-    alert(count);
+    alert("You clicked " + count + " times.");
 }
